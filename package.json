@@ -1,0 +1,29 @@
+{
+  "name": "oda-development-environment",
+  "version": "1.0.0",
+  "description": "- [ ] Configurar .devcontainer - [ ] Configurar SDK - [ ] Configurar árvore de diretórios - [ ] Configurar testes unitários",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizPiresS/oda-development-environment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizPiresS/oda-development-environment/issues"
+  },
+  "homepage": "https://github.com/LuizPiresS/oda-development-environment#readme",
+  "dependencies": {
+    "@oracle/bots-node-sdk": "^2.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  }
+}
